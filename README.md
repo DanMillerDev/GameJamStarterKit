@@ -1,7 +1,7 @@
 # GameJamStarterKit
 Starter project for Game Jams and Hackathons showing basic Unity features
 
-![image](https://imgur.com/c7yOsHG.png)
+![image](https://imgur.com/F4NpFQ9.png)
 
 This repo shows off the following features
 
